@@ -1,0 +1,1 @@
+Trying some stuff with python and midi
